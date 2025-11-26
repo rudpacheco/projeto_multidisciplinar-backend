@@ -66,24 +66,6 @@ Veja a documentação completa dos endpoints em: [DOCUMENTACAO_API.md](./docs/DO
 - **ENFERMEIRO** - Suporte a atendimentos e registros
 - **ADMINISTRADOR** - Gestão completa do sistema
 
-### 🏗️ Estrutura do Projeto
-```
-novoBACK/
-├── src/
-│   ├── config/          # Configurações
-│   ├── controllers/     # Controladores
-│   ├── middleware/      # Middlewares
-│   ├── models/          # Modelos de dados
-│   ├── routes/          # Rotas da API
-│   ├── services/        # Lógica de negócio
-│   ├── utils/           # Utilitários
-│   ├── database/        # Scripts de banco
-│   └── server.js        # Arquivo principal
-├── docs/                # Documentação
-├── tests/               # Testes
-└── logs/                # Arquivos de log
-```
-
 ### 🔒 Segurança e LGPD
 - Criptografia de senhas com bcrypt
 - Autenticação via JWT
