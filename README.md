@@ -92,7 +92,7 @@ novoBACK/
 - Proteção contra ataques comuns (XSS, CSRF, etc)
 
 ### 👨‍💻 Autor
-Leonardo - Projeto Multidisciplinar 2024
+Rudney Pacheco - Projeto Multidisciplinar  2025
 
 ### 📄 Licença
 MIT
