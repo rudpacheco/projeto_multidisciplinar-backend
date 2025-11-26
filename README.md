@@ -94,5 +94,3 @@ novoBACK/
 ### 👨‍💻 Autor
 Rudney Pacheco - Projeto Multidisciplinar  2025
 
-### 📄 Licença
-MIT
